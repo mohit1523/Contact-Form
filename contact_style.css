@@ -1,0 +1,121 @@
+.header{
+    color: whitesmoke;
+    height: 70px;
+    width: 100%;
+    margin: 0;
+    background-color: black;
+}
+form{
+    width: 50%;
+    float: right;
+    align-self: center;
+    border: none;
+    margin: 10px 35px 5px 5px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 3%;
+    box-shadow: 3px 3px 11px black;
+    font-family:cursive;
+    background-color: white;
+    opacity: 0.7;
+}
+h2{
+    font-family: 'Monotype corsiva';
+    font-family:'Brush Script MT' , cursive;
+    font-size: 40px;
+}
+.country{
+    color:darkslategrey ;
+    font-family: Potta one, cursive;
+}
+body{
+    background-image: url(Bg6.jpg);
+    background-size: 100%;
+}
+p fieldset legend{
+    font-weight: bolder;
+}
+body{
+    margin: 0;
+}
+.home{
+    float: left;
+    list-style-type:none;
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-right: 1cm;
+    width: 15mm;
+    text-align: center;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    font-family:cursive;
+    font-weight:700;
+}
+.home:hover{
+    background-color:orangered;
+    box-shadow: 3px 3px 9px black;
+}
+input:hover{
+    box-shadow: 3px 4px 10px black;
+    border: none;
+    border-radius: 2px;
+}
+.submit{
+    color: whitesmoke;
+    background-color: limegreen;
+    border: none;
+    box-sizing: content-box;
+    width: 80px;
+    height: 30px;
+    border-radius: 0px;
+}
+#cap_ame{
+    box-sizing: content-box;
+    height: 5cm;
+    width: 5cm;
+    margin-top: 2cm;
+    border-radius: 50%; 
+    border:2px solid white;
+}
+#captain_field{
+    border-radius: 6px;
+    box-sizing:content-box ;
+    width: 250px;
+    box-shadow: 3px 3px 9px black;
+    border: 1px solid white;
+    font-family:'Papyrus', sans-serif;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+#avengers{
+    box-sizing: content-box;
+    margin-top: 0px
+    
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 4px;
+    border: 1px solid darkslategrey;
+}
+.homee, .us{
+    text-decoration: none;
+    font-family:Potta one,cursive;
+    font-weight: bold;
+    background-color: black;
+    display: inline;
+    font-size: 30px;
+    padding: 15px;
+    float: right;
+    align-self: center;
+    border-left: 2px solid darkslategray;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px; 
+    font-family: 'Audiowide';
+}
+.homee:hover, .us:hover{
+    background-color:darkgray;
+}
